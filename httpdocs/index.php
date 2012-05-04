@@ -10,7 +10,7 @@ else
 <html xmlns="http://www.w3.org/1999/xhtml">
 <html>
 <head>
-<!-- Source code can be edited on Github at https://github.com/chrisgward/mudkipz.ws -->
+<!-- Source code can be found and edited on Github at https://github.com/chrisgward/mudkipz.ws -->
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <title>kip rolled</title>
 <script type="text/javascript">
