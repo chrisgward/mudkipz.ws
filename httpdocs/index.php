@@ -1,5 +1,4 @@
 <?php 
-//Just adding this here to make sure that all the servers are pulling from github correctly.
 if($_SERVER['HTTP_HOST'] == "mudkipz.ws" && $_SERVER['REQUEST_URI'] == "/")
         header("HTTP/1.0 200 OK");
 else
@@ -11,6 +10,7 @@ else
 <html xmlns="http://www.w3.org/1999/xhtml">
 <html>
 <head>
+<!-- Source code can be edited on Github at https://github.com/chrisgward/mudkipz.ws -->
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <title>kip rolled</title>
 <script type="text/javascript">
