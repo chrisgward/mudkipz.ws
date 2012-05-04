@@ -1,4 +1,5 @@
 <?php 
+//Just adding this here to make sure that all the servers are pulling from github correctly.
 if($_SERVER['HTTP_HOST'] == "mudkipz.ws" && $_SERVER['REQUEST_URI'] == "/")
         header("HTTP/1.0 200 OK");
 else
