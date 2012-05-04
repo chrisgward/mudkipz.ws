@@ -1,0 +1,18 @@
+a {
+	color: #FFF;
+}
+
+body {
+	color: #DDD;
+	background-color: #000;
+	text-align: center;	
+}
+
+iframe { 
+	height: 62px;
+	width: 292px;
+	overflow: hidden;
+	border: none;
+z-index:2; 
+filter:"progid:DXImageTransform.Microsoft.Alpha(style=0, opacity=0)"
+}
