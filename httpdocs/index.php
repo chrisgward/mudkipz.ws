@@ -100,5 +100,9 @@ if(window.attachEvent){
 <li>mudkypzz r teh kewlies</li>
 <li>Muddkypz eats poke-caviar - but only teh best >_></li>
 </ul>
+<br/>
+<br/>
+<hr/>
+In search of more server hosts. For more information, please contact me by clicking <a href="mailto:chris@chrisgward.com">here</a>
 </body>
 </html>
