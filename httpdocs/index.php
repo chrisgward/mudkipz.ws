@@ -102,7 +102,5 @@ if(window.attachEvent){
 </ul>
 <br/>
 <br/>
-<hr/>
-In search of more server hosts. For more information, please contact me by clicking <a href="mailto:chris@chrisgward.com">here</a>
 </body>
 </html>
