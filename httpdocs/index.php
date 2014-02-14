@@ -62,7 +62,7 @@ a {
 <div id="fb-root"></div>
 <h1>oh, i see you lieks mudkipz</h1>
 <p><a name="fb_share" type="button_count"  target="_blank" share_url="http://mudkipz.ws" href="http://www.facebook.com/sharer.php">Share</a><script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script></p>
-<p><iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fofficialmudkipz&amp;width=292&amp;height=62&amp;colorscheme=light&amp;show_faces=false&amp;border_color&amp;stream=false&amp;header=false&amp;appId=285319061512609" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:292px; height:62px;" allowTransparency="true"></iframe></p>
+<p><iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fmudkipzws&amp;width=292&amp;height=62&amp;colorscheme=light&amp;show_faces=false&amp;border_color&amp;stream=false&amp;header=false&amp;appId=285319061512609" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:292px; height:62px;" allowTransparency="true"></iframe></p>
 <p><a href="http://<?php echo $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];?>">click heer to klose mudkipz ='[</a></p>		
 <div id="ytapiplayer">
 	You need Flash Player 8+ and JavaScript enabled to view this video.
